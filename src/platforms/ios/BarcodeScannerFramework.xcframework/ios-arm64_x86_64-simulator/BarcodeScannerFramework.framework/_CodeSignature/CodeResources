@@ -49,6 +49,10 @@
 	<dict>
 		<key>Headers/BarcodeScannerFramework.h</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			ltcPaZoXs148BBVrp2Q8Q6WNheM=
+			</data>
 			<key>hash2</key>
 			<data>
 			IHMx+lh/+3xtgDoA3C7cKJb6X5kqAvNZn77LVI0O0Ps=
@@ -56,6 +60,10 @@
 		</dict>
 		<key>Headers/QRCameraSwitchButton.h</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			0PjT95yv+IlLcllm/Yzq9twQT8Q=
+			</data>
 			<key>hash2</key>
 			<data>
 			2ekU5rN93KMTAj7qVqLsyHHSmWDuoyhzH6VKvHuo6h4=
@@ -63,6 +71,10 @@
 		</dict>
 		<key>Headers/QRCodeReader.h</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			uFJEYqciR3sQ665V5rhyZdc/fX8=
+			</data>
 			<key>hash2</key>
 			<data>
 			m+llnRn4dlyOoR10dSHijKEaQ/Z6Vd8pKmMaBNsqkwM=
@@ -70,6 +82,10 @@
 		</dict>
 		<key>Headers/QRCodeReaderDelegate.h</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			tGFFu751Po2cVhw6Ld/Yi9/tewo=
+			</data>
 			<key>hash2</key>
 			<data>
 			FnEVSA9/89bIqZ+yo6TGEqQoeDyvvqSbMxXPkFTUjxE=
@@ -77,6 +93,10 @@
 		</dict>
 		<key>Headers/QRCodeReaderView.h</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			B0SrGHbKWdK0eXkU8pUVcrW59V8=
+			</data>
 			<key>hash2</key>
 			<data>
 			FBUKODxCA9pJiidxF4DJdR3FWM7e0hoQPLuz/q983Rc=
@@ -84,6 +104,10 @@
 		</dict>
 		<key>Headers/QRCodeReaderViewController.h</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			VTunDmky9DD0Y5b4ToU3zOCRof8=
+			</data>
 			<key>hash2</key>
 			<data>
 			WmQALDc88lgciAdBdAWz/tbXJX3Mn3WU6sMd1iZM09M=
@@ -91,6 +115,10 @@
 		</dict>
 		<key>Headers/QRToggleTorchButton.h</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			82jv95iw1ihj020D9VFBnWBeqNE=
+			</data>
 			<key>hash2</key>
 			<data>
 			3R8KkZ9jvRVv1WqcXok0eDT6RbDeglbeU8vje8ovmyM=
@@ -98,6 +126,10 @@
 		</dict>
 		<key>Modules/module.modulemap</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			FbeEYX+rJuU9ln+MtY+g4Ky3Gcw=
+			</data>
 			<key>hash2</key>
 			<data>
 			Sz/3Wy1BBymXakDXVqnRa6PoFflH2p9V8an5dA+HXes=
@@ -105,6 +137,10 @@
 		</dict>
 		<key>beep.caf</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			n1wlp+nz0IyIf+ijW5tP91UI+x0=
+			</data>
 			<key>hash2</key>
 			<data>
 			NN7HB8+IcBwGLL11Xktd4ifwAZDSoNs8hKwROCcXamo=
